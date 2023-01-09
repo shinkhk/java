@@ -5,7 +5,7 @@ import java.awt.Frame;
 import java.awt.Graphics;
 import java.util.Random;
 
-public class MyFrame extends MFgame{
+public class MyFrame extends MFrame{
 	
 	Random r;
 	public MyFrame() {
